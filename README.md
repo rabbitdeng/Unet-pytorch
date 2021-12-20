@@ -8,18 +8,32 @@ https://www.kaggle.com/c/tgs-salt-identification-challenge
 --------------------------------------------------------------------------
 项目结构如下：
 -------salt_unet--------
-|
+| 
+
 |data---|
+
 |       |
+
 |       |images
+
 |       |
+
 |       |masks
+
 |
+
 |config.py
+
 |
+
 |model.py
+
 |
+
 |train.py
+
 |
+
 |dataset.py
+
 
