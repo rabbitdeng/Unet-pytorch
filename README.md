@@ -10,15 +10,15 @@ https://www.kaggle.com/c/tgs-salt-identification-challenge
 -------salt_unet--------
 | 
 
-|data---|
+|data(place your dataset here) 
 
-|       |
+|
 
-|       |images
+|
 
-|       |
+|
 
-|       |masks
+|
 
 |
 
